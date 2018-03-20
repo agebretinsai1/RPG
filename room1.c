@@ -1,10 +1,24 @@
 #include <stdio.h>
 
-
-void  main(void)
+int main (void)
 {
-        printf("This is Room 1\n");
-}
+	int choice = 5;
+	
+	printf("Hello and welcome to our RPG. You are in room 1\n");
+	printf("");
+}	                                                  
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                               
+~                                                                     
+~                                                                                                                   
 ~                                                                               
 ~                                                                               
 ~                                                                               
@@ -18,26 +32,4 @@ void  main(void)
 ~                                                                               
 ~                                                                               
 ~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
--- INSERT --                                                  7,2           All
-
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
-~                                                                               
--- INSERT --                                                  7,2           All
-
+~                             
